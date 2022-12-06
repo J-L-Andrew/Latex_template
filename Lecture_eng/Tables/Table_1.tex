@@ -1,0 +1,15 @@
+\begin{tabular}{c || c}
+	\textbf{steps} &\textbf{Monte Carlo simulation} \\
+	\hline
+	0 &Start with some spin configuration {$s_i$}.\\
+	\hline
+	1 &Randomly choose a spin $s_i$ \\
+	\hline
+	2 &Attempt to flip it, i.e., $s_i:= -s_i$ (trial)\\
+	\hline
+	3 &Compute the energy change $\Delta E$ due to this flip. \\
+	\hline
+	4 &If $\Delta E < 0$, accept the trial. \\
+	\hline
+	5 &If $\Delta E > 0$, accept the trial with probability $p^{\mathrm{acc}}=e^{-\beta \Delta E}$\\
+\end{tabular}

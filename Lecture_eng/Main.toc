@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Ising model}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Ising model in statistical mechanics}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Mean field reinforcement learning methods}{13}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Mean field approximation}{14}{0}{2}
