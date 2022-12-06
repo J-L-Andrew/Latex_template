@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,7 +720,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 	\end{tablist}
+l.229 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -732,7 +732,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.240 	\end{tablist}
+l.237 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -757,7 +757,7 @@ EBGaramond-Bold.pfb><s:/texlive/2021/texlive/2021/texmf-dist/fonts/type1/public
 /ebgaramond/EBGaramond-Italic.pfb><s:/texlive/2021/texlive/2021/texmf-dist/font
 s/type1/public/ebgaramond/EBGaramond-Regular.pfb><s:/texlive/2021/texlive/2021/
 texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb>
-Output written on cv-gboeing.pdf (2 pages, 419352 bytes).
+Output written on cv-gboeing.pdf (2 pages, 419359 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
