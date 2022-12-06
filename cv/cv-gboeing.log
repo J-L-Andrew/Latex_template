@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -693,9 +693,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <12> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 190.
+input line 184.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 190.
+(Font)              scaled to size 12.0pt on input line 184.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -704,7 +704,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206 	\end{tablist}
+l.200 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -720,7 +720,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 	\end{tablist}
+l.223 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -732,7 +732,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.237 	\end{tablist}
+l.231 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -757,7 +757,7 @@ EBGaramond-Bold.pfb><s:/texlive/2021/texlive/2021/texmf-dist/fonts/type1/public
 /ebgaramond/EBGaramond-Italic.pfb><s:/texlive/2021/texlive/2021/texmf-dist/font
 s/type1/public/ebgaramond/EBGaramond-Regular.pfb><s:/texlive/2021/texlive/2021/
 texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb>
-Output written on cv-gboeing.pdf (2 pages, 419359 bytes).
+Output written on cv-gboeing.pdf (2 pages, 419380 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
