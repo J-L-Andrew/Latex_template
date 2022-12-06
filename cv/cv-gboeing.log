@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.25)  6 DEC 2022 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -585,22 +585,17 @@ t line 115.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
 (Font)              scaled to size 24.88pt on input line 115.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--135
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--135
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--135
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
  []
 
@@ -611,7 +606,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144         }{photo1.jpg}
+l.142         }{photo1.jpg}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -620,9 +615,9 @@ or  <return>  to continue without it.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <24.88> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 144.
+nput line 142.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 144.
+(Font)              scaled to size 24.88pt on input line 142.
 
 ! LaTeX Error: Undefined color `color-title'.
 
@@ -630,26 +625,26 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144         }{photo1.jpg}
+l.142         }{photo1.jpg}
                            
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: \begin{minipage} on input line 144 ended by \end{dummyenv}.
+! LaTeX Error: \begin{minipage} on input line 142 ended by \end{dummyenv}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144         }{photo1.jpg}
+l.142         }{photo1.jpg}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 
  []
 
@@ -660,7 +655,7 @@ See the xkeyval package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144         }{photo1.jpg}
+l.142         }{photo1.jpg}
                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -668,15 +663,15 @@ If that doesn't work, type  X <return>  to quit.
 <photo1.jpg, id=5, 1066.98625pt x 1540.75626pt>
 File: photo1.jpg Graphic file (type jpg)
 <use photo1.jpg>
-Package pdftex.def Info: photo1.jpg  used on input line 144.
+Package pdftex.def Info: photo1.jpg  used on input line 142.
 (pdftex.def)             Requested size: 80.99947pt x 116.96233pt.
 
-Overfull \hbox (32.49673pt too wide) in paragraph at lines 144--144
+Overfull \hbox (32.49673pt too wide) in paragraph at lines 142--142
  []
  []
 
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 15
-0.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 14
+8.
 (s:/texlive/2021/texlive/2021/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
@@ -690,42 +685,30 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 150.
+(Font)              <12> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 150.
+(Font)              <8> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 150.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.200 	\end{tablist}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.208 	\end{tablist}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+(Font)              <6> on input line 148.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <12> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 219.
+input line 190.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 219.
+(Font)              scaled to size 12.0pt on input line 190.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 	\end{tablist}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 [1
 
 {s:/texlive/2021/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
@@ -737,7 +720,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.235 	\end{tablist}
+l.232 	\end{tablist}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.240 	\end{tablist}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -749,11 +744,11 @@ Package rerunfilecheck Info: File `cv-gboeing.out' has not changed.
 Here is how much of TeX's memory you used:
  13953 strings out of 478994
  220621 string characters out of 5855667
- 593208 words of memory out of 5000000
+ 595208 words of memory out of 5000000
  31115 multiletter control sequences out of 15000+600000
  482403 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,88p,1067b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,8n,88p,1067b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
 {s:/texlive/2021/texlive/2021/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ljow
 5q.enc}{s:/texlive/2021/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.e
 nc}{s:/texlive/2021/texlive/2021/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tcd
@@ -762,7 +757,7 @@ EBGaramond-Bold.pfb><s:/texlive/2021/texlive/2021/texmf-dist/fonts/type1/public
 /ebgaramond/EBGaramond-Italic.pfb><s:/texlive/2021/texlive/2021/texmf-dist/font
 s/type1/public/ebgaramond/EBGaramond-Regular.pfb><s:/texlive/2021/texlive/2021/
 texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb>
-Output written on cv-gboeing.pdf (2 pages, 419407 bytes).
+Output written on cv-gboeing.pdf (2 pages, 419352 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
