@@ -1,0 +1,4 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Random organization (随机组织)}{3}{0}{1}
+\beamer@sectionintoc {2}{Polytetrahedral aggregates (多四面体集合)}{16}{0}{2}
+\beamer@sectionintoc {3}{Extra}{24}{0}{3}
